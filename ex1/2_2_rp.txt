@@ -1,0 +1,9 @@
+The student with the highest mark is: TIEN
+The student with the lowest mark is: TIEN
+The average mark is: inf
+A histogram of the subject 2 is:
+A:
+B:*
+C:
+D:
+F:

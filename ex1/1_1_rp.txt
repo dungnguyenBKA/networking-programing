@@ -1,0 +1,9 @@
+The student with the highest mark is: DUONG 
+The student with the lowest mark is: NGUYEN
+The average mark is: 4.18
+A histogram of the subject Network Programming is:
+A:
+B:*
+C:
+D:*
+F:**

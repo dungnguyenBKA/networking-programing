@@ -1,0 +1,6 @@
+SubjectID|2
+Subject|2
+F|30|70
+Semester|2
+StudentCount|1
+S|CHIEN|DAT|TIEN|1.000000|10.000000|B|
